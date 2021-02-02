@@ -4,7 +4,7 @@ const client = new Discord.Client();
 const Canvas = require('canvas');
 
 //Discord Login//
-client.login('ODA2MjU0ODYwODg1ODE5NDM0.YBmxWg.eB5fL48TEtZILiffwuT9HTpverg');
+client.login();
 
 client.once('ready', () => {
     console.log("The code has started!");
