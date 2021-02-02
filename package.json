@@ -1,0 +1,12 @@
+{
+  "name": "mytest",
+  "version": "0.0.1",
+  "description": "Criador de provas customizadas.",
+  "main": "main.js",
+  "author": "Erik",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "canvas": "^2.6.1",
+    "pg": "^8.5.1"
+  }
+}
