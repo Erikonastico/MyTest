@@ -4,19 +4,24 @@ Um simples aplicativo criador de provas para professores. Projeto de conclusão 
 
 ### Etapas
 **Frontend:**
-* Desenhar todas as telas da aplicação.
-
-*Coisas ja realizadas:*
-* Tela de Inicio.
-* Tela de Login.
+* ~~Tela de Inicio.~~
+* ~~Tela de Login.~~
+* Tela de Perfil.
+* Tela de Criação de Prova.
+* Tela de Criação de Questões.
+* Tela de Impressão.
 
 **Backend:**
+* ~~Configuração da estrutura.~~
 * Criar as funções de tratamento de dados.
-* Criar modelo de prova simples.
+* Criar um modelo de prova simples.
+* Criar modelos de questões.
 
-*Coisas ja realizadas:*
-* Configuração.
+**Operacional:**
+* Migração de codigo do Discord pra HTTP POST.
+* Estruturar o codigo baseado na arquetetura.
+* Realizar testes.
 
 **Apresentação:**
-* Montar o slide.
+* Montar a apresentação.
 * Colocar a aplicação no ar (Vercel)
